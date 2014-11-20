@@ -1,10 +1,10 @@
 # Fisheries diversification
 
-(Burgess 2014)(notes/burgess2014.md)
+[(Burgess 2014)](notes/burgess2014.md)
 
-# Black swans:
+# Black swans
 
-(Hart 2014)(notes/hart2014.md)
+[(Hart 2014)](notes/hart2014.md)
 
 # References
 
