@@ -1,3 +1,3 @@
 # Fisheries diversification
 
-[notes/burgess2014.md](Burgess 2014)
+[Burgess 2014](notes/burgess2014.md)
