@@ -10,9 +10,6 @@
 - Spatial Heterogeneity Increases Diversity and Stability in Grassland Bird
   Communities
 
-- Reconstructing Local Population Dynamics in Noisy Metapopulations—The
-  Role of Random Catastrophes and Allee Effects
-
 - Public awareness of impacts on marine environments Bimodality of plant
   height: fact or artifact? A response to Scheffer Secondary extinctions of
   biodiversity
@@ -32,7 +29,5 @@
 
 - The importance of spatial models for estimating the strength of density
   dependence
-
-- PLOS ONE: Predictability of Extreme Events in Social Media
 
 - Function regression in ecology and evolution: FREE
