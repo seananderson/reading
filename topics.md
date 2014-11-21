@@ -12,7 +12,13 @@ social media: [(Miotto 2014)](notes/miotto2014.md)
 
 [(Brodie et al. 2014)](notes/brodie2014.md) reviews secondary extinctions
 
+# Conservation philosophy
+
+[(Adams 2014)](notes/adams2014.md)
+
 # References
+
+Adams, W. M. 2014. “The Value of Valuing Nature.” *Science* 346 (6209): 549–51. doi:[10.1126/science.1255997](http://dx.doi.org/10.1126/science.1255997).
 
 Brodie, Jedediah F., Clare E. Aslan, Haldre S. Rogers, Kent H. Redford, John L. Maron, Judith L. Bronstein, and Craig R. Groves. 2014. “Secondary Extinctions of Biodiversity.” *Tree* 29 (12): 664–72. doi:[10.1016/j.tree.2014.09.012](http://dx.doi.org/10.1016/j.tree.2014.09.012).
 

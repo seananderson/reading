@@ -13,4 +13,8 @@ social media: [[@miotto2014]](notes/miotto2014.md)
 
 [[@brodie2014]](notes/brodie2014.md) reviews secondary extinctions
 
+# Conservation philosophy 
+
+[[@adams2014]](notes/adams2014.md)
+
 # References
